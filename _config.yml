@@ -38,9 +38,9 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-97323069-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: assada-github-io
-  muut_community_name: assada # From muut.com settings, e.g. "muttcommunityname"
+  muut_community_name:
   katex: true # Enable if using math markup
 
   # Localization strings
