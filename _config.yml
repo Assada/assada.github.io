@@ -1,13 +1,13 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://assada.github.io/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Assada`s Blog
   avatar: avatar.png
-  gravatar: # Email MD5 hash
+  gravatar: 17a524bd0be05c1b2ca7cb59d95a2d57
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
@@ -21,23 +21,23 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: assada.ua@gmail.com
   behance:
-  bitbucket:
+  bitbucket: Assada
   dribbble:
-  facebook:
+  facebook: 100006772187574
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "Assada"
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: assada_ua
+  linkedin: https://www.linkedin.com/in/a-alekseev/
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
-  steam:
+  steam: AssadaUa
   tumblr:
-  twitter: "twitter"
+  twitter: "assada_ua"
   wordpress:
   youtube:
 
