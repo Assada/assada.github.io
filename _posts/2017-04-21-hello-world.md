@@ -1,8 +1,8 @@
-----		
- -layout: post		
- -title: Новая попытка	
- -feature-img: "img/sample_feature_img.png"		
-----
+---
+layout: post
+title: Новая надежда
+feature-img: "img/sample_feature_img.png"
+---
 
 Попытка номер N.
 
