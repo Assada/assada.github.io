@@ -1,49 +1,46 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://assada.github.io/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
-  title: Type Theme
+  title: Assada`s Blog
   avatar: avatar.png
-  gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  gravatar: 17a524bd0be05c1b2ca7cb59d95a2d57
+  description: "Software developer Alex Ilyenko" # used by search engines
 
   # Header and footer text
-  header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text:
   header_text_feature_image:
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+  footer_text:
 
   # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: true
+  email_address: assada.ua@gmail.com
   behance:
-  bitbucket:
+  bitbucket: Assada
   dribbble:
-  facebook:
+  facebook: 100006772187574
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "Assada"
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: assada_ua
+  linkedin: https://www.linkedin.com/in/a-alekseev/
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
-  steam:
+  steam: AssadaUa
   tumblr:
-  twitter: "twitter"
+  twitter: "assada_ua"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: "UA-58431978-1"
-  disqus_shortname:
+  google_analytics: UA-97323069-1 # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname: assada-github-io
+  muut_community_name:
   katex: true # Enable if using math markup
 
   # Localization strings
