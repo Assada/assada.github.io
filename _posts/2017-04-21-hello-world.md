@@ -2,6 +2,7 @@
 layout: post
 title: Новая надежда
 feature-img: "assets/img/sample_feature_img.png"
+subtitle: "Серия статей по установке и настройке умного дома"
 tags: [hello-world, welcome]
 ---
 
